@@ -1,0 +1,5 @@
+Welcome to the specification page of the SynOSCopy namespace at http://github.com/fabb/SynOSCopy.
+
+This supersedes both http://synosc.wetpaint.com and http://stud3.tuwien.ac.at/~e0725639/OSC-SYN.txt.
+
+Have a look at the (versioned) Wiki pages for the specification.
